@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SociAR</string>
+    <string name="qst">Start</string>
+    <string name="st">Add details</string>
+    <string name="enter_a_nickname_for_quick_start">Enter a nickname for quick start</string>
+    <string name="op">Occupation</string>
+    <string name="hb">Hobbies</string>
+    <string name="m5">Maximum 5</string>
+    <string name="pl">+</string>
+    <string name="pi">Professional Interests</string>
+    <string name="it">IT-related interests, max5</string>
+    <string name="ra">Recent Activities</string>
+    <string name="wr">What have you been doing recently?</string>
+    <string name="sb">Submit</string>
+</resources>
